@@ -23,7 +23,7 @@
     <body>
         <br><br><br><br>
     <center>
-        <div>Hello my frnd</div>
+        <div>Hello my friend -- welcome</div>
         <br><br><br><br>
 
         <h1>Welcom to our project</h1>
