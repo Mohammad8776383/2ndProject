@@ -26,7 +26,7 @@
         <div>Hello my friend -- welcome</div>
         <br><br><br><br>
 
-        <h1>Welcom to our project</h1>
+        <h1>Mohammad AbuKaff</h1>
          <br><br><br><br>
          <h2 class="x">Borders Style</h2>
           <br><br><br><br>
