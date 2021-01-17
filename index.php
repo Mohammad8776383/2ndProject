@@ -24,6 +24,8 @@
         <br><br><br><br>
     <center>
         <div>Hello my friend -- welcome</div>
+        <div>Hello my friend -- welcome</div>
+        <div>Hello my friend -- welcome</div>
         <br><br><br><br>
 
         <h1>Welcome Mohammad Abukaff</h1>
